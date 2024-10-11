@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SWfKhATUvNo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jesus\\OneDrive\\Escritorio\\Practica1-4\\Practica1ProductosdiponiblesYretirados\\Productos diponibles y no.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jesus\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Jesus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Jesus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Jesus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
+  ],
+  "logs": []
+}
